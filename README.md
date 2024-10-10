@@ -23,19 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um livro sobre como as IAs revolucionarão a criação de livros
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Apenas ChatGPT com Dall-E
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei a capa e estruturei os tópicos, depois pedi que desenvolvesse cada um dos tópicos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+vou adicionar em uma pasta no repositório GitHub
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+desafio bacada, bem estruturado.
 ```
 
 ### Exemplos e Insigths
